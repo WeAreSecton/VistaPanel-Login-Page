@@ -1,4 +1,6 @@
 # VistaPanel Login Page
+![GitHub](https://img.shields.io/github/license/wearesecton/vistapanel-login-page?style=for-the-badge)
+
 This is a simple login page for VistaPanel, designed with the Tabler interface. It includes a form with username and password fields, and a password reset link.
 
 ## Usage
